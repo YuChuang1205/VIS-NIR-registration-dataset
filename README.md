@@ -12,5 +12,10 @@
 5. **"xxxx_nir.npy":** equivalent to the content in "xxxx_nir_pa.txt", but the npy format is easier for the program to read.  
 
 
+### Other link
+1. My homepage: [[YuChuang](https://github.com/YuChuang1205)]
+2. VIS-NIR patch dataset: [[Link]()]
+3. OS patch dataset: [[Link](https://github.com/YuChuang1205/OS-patch-dataset)]
+4. SEN1-2 patch dataset: [[Link](https://github.com/YuChuang1205/SEN1-2-patch-dataset)]
 
 
