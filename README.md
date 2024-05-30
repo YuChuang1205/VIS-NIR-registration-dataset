@@ -14,7 +14,7 @@ This registration dataset is a VIS and NIR registration dataset that we construc
 
 ### Other link
 1. My homepage: [[YuChuang](https://github.com/YuChuang1205)]
-2. VIS-NIR patch dataset: [[Link]()]
+2. VIS-NIR patch dataset: [[Link](https://github.com/ngunsu/lcsis?tab=readme-ov-file)]
 3. OS patch dataset: [[Link](https://github.com/YuChuang1205/OS-patch-dataset)]
 4. SEN1-2 patch dataset: [[Link](https://github.com/YuChuang1205/SEN1-2-patch-dataset)]
 
